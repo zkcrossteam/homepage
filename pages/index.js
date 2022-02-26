@@ -18,7 +18,7 @@ const footerList = [
   },
   {
     pic: '/footer/f4.png',
-    url: 'https://zkcross.medium.com/'
+    url: 'https://blog.zkcross.org'
   }
 ]
 const list1 = [
