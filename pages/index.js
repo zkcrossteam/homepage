@@ -71,7 +71,7 @@ const c7LeftList = [
 const c7list = [
   {
     url: '/c7/c71.png',
-    link: 'https://discord.gg/8mgBwVen',
+    link: 'https://discord.gg/eveHqJqzdh',
     title: 'Discord Community',
     desc: 'Get involved with our community on discord'
   },
@@ -89,8 +89,8 @@ const c7list = [
   },
   {
     url: '/c7/c74.png',
-    link: 'https://zkcross.medium.com/',
-    title: 'Medium',
+    link: 'https://blog.zkcross.org',
+    title: 'Blog',
     desc: 'Get latest updates from our blog post.'
   },
 ]
