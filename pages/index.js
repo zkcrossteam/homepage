@@ -10,7 +10,7 @@ const footerList = [
   },
   {
     pic: '/footer/f2.png',
-    url: 'https://discord.gg/8mgBwVen'
+    url: 'https://discord.gg/eveHqJqzdh'
   },
   {
     pic: '/footer/f3.png',
