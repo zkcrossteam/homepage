@@ -10,7 +10,7 @@ const footerList = [
   },
   {
     pic: '/footer/f2.png',
-    url: 'https://discord.gg/eveHqJqzdh'
+    url: 'https://discord.gg/NfFddpXKJr'
   },
   {
     pic: '/footer/f3.png',
@@ -71,7 +71,7 @@ const c7LeftList = [
 const c7list = [
   {
     url: '/c7/c71.png',
-    link: 'https://discord.gg/eveHqJqzdh',
+    link: 'https://discord.gg/NfFddpXKJr',
     title: 'Discord Community',
     desc: 'Get involved with our community on discord'
   },
