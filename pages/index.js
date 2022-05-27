@@ -136,8 +136,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head className={styles.head}>
-        <title>ZKCross - DeFi cross-chain potocol</title>
-        <meta name="description" content="A protocol built for DeFi protocol with multichain zkRollup" />
+        <title>ZKCross -  DeFi cross-chain network</title>
+        <meta name="description" content="A multichain zkRollup backed cross-chain network" />
         <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
         <link rel="icon" href="/favicon.ico" />
         <link href=" https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet" />
@@ -201,7 +201,7 @@ export default function Home() {
           </div>
           <div className={styles.c2right}>
             <h3 className={styles.c2title}>
-              A trustworthy cross-chain protocol built with  multichain zkRollup
+              A trustworthy cross-chain network built with  multichain zkRollup
             </h3>
             <p className={styles.c2desc}>
               ZKCross establishes connections to multiple blockchains in order to create a decentralized platform. This platform enables the DeFi ecosystem to develop cross-chain applications that require high levels of security, efficiency, and scalability.
